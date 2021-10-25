@@ -11,7 +11,7 @@ after the running ssh_agent should do the work for you.
 Add
 
 ```
-fundle plugin 'danhper/fish-ssh-agent'
+fundle plugin 'digitter/fish-ssh-agent'
 ```
 
 to your `config.fish`, reload your shell and run `fundle install`.
@@ -19,7 +19,7 @@ to your `config.fish`, reload your shell and run `fundle install`.
 ### Using [Fisher](https://github.com/jorgebucaran/fisher)
 
 ```
-fisher install danhper/fish-ssh-agent
+fisher install digitter/fish-ssh-agent
 ```
 
 ### Manually
